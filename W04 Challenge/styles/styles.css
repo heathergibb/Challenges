@@ -1,0 +1,44 @@
+:root {
+    background-color: #faa0ca;
+    font-family: Arial, Helvetica, sans-serif
+}
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 2em;
+    font-weight: bolder;
+}
+
+h1:hover {
+    color: black;
+}
+h2 {
+    color: white;
+    text-align: center;
+    /* width: 80% */
+}
+header p {
+    color: white;
+    text-align: center;
+}
+main {
+    text-align: center;
+}
+div.List{
+    text-align: center;
+}
+ol {
+    display: inline-block;
+    text-align: left;
+}
+img {
+    width: 30%;
+    margin: 0 auto;
+}
+footer {
+    text-align: center;
+}
+#quote {
+    color: white;
+    font-size: xx-large;
+}

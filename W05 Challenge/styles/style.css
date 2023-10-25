@@ -1,0 +1,18 @@
+header img {
+    margin: 0 auto;
+    width: 100%;
+}
+body {
+    margin: 0;
+    background-color: gray;
+}
+div {
+    text-align: center;
+    display: inline-block;
+}
+div img {
+    width: 20%;
+    border: 10px solid rgb(68, 67, 67);
+    margin: 20px 30px;
+    border-radius: 50%;
+}
